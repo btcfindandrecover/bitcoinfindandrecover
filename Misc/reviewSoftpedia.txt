@@ -1,0 +1,29 @@
+
+
+Recover lost or corrupted Bitcoin wallets from your hard drive and retrieve forgotten passwords, with this powerful and easy-to-use program
+
+Losing access to important files is always a big deal, but even more so when Bitcoin wallets are involved. However, there are applications that can help you recover these files, as well as retrieve their passwords.
+
+Bitcoin find & recover is one such utility, an intuitive cryptocurrency recovery tool that supports multiple types of wallets and includes a powerful password retrieval module.
+Novice-friendly Bitcoin recovery application
+
+While Bitcoin find & recover does rely on a few other software components, namely Python, .NET Framework and Microsoft Visual C++ 2013, they are all included in the downloaded installer, so the setup procedure should be fairly straightforward.
+
+The program is very easy to use for the most part, and it even prevents you from storing recovered data on the same partition, so as to avoid overwriting deleted files.
+Versatile program that can help you recover multiple types of wallets
+
+The application supports numerous wallet formats, including Armory, Bitcoin-QT, Bither, Copay, Electrum, mSIGNA and MultibitHD.
+
+When launching a recovery operation, you can choose which formats the program should search for and which drive should be scanned.
+
+Bitcoin find & recover can locate existing files, as well as deleted ones, and it is capable of recovering partially corrupted MultibitHD wallets.
+Offers several password retrieval methods
+
+After locating the wallet files, you may need to recover old, forgotten passwords, and this application can help you out in this scenario.
+
+Things are very simple if you can remember one or more passwords, as you can create a list and have the application try them with all the recovered files.
+
+However, you also have the option of creating tokens, which are made up of the various parts of the password that you can remember.
+
+On the whole, Bitcoin find & recover is a great tool for users who need to restore deleted or corrupted Bitcoin wallets. Moreover, it can help you recover lost passwords, and it is, for the most part, quite intuitive.
+
