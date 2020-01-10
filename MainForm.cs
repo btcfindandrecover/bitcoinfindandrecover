@@ -266,7 +266,7 @@ namespace CryptoFinder
         {
             //
             // Required for Windows Form Designer support
-            //
+            // 
             InitializeComponent();
 
             //
