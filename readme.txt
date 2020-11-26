@@ -37,4 +37,4 @@ The most important thing to understand is how to create the password tokens, whi
 It allows to either try to recover all the files found by the first part of the program or only recover one file.
 
 I've copied the most important sections of the token creation guide from btcrecover, see here:
-https://github.com/Alex-Jaeger/BitcoinFindAndRecover/blob/master/Tokens.txt
+https://github.com/btcfindandrecover/bitcoinfindandrecover/blob/master/Misc/Tokens.txt
